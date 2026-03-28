@@ -20,6 +20,15 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Support & Specialist Personas
+- UX Designer: advocates for user experience and accessibility; designs and validates usability.
+- DevOps Engineer: maintains CI/CD pipelines, infrastructure, and deployment reliability.
+- Documentation Specialist/Technical Writer: produces and maintains user and internal documentation.
+- Support/Customer Success Lead: represents customer perspectives and manages post-release feedback loops.
+- Security Lead: ensures security best practices and compliance throughout the project lifecycle.
+
+> See [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md) for full role descriptions and interaction guidelines.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan

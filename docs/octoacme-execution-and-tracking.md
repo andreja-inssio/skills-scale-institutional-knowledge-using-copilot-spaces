@@ -36,5 +36,11 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
+- [ ] Security scanning enabled in CI pipeline (Security Lead)
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] UX Designer has reviewed UI/UX changes before release
+- [ ] Documentation Specialist has updated relevant docs for new features
+- [ ] DevOps Engineer has confirmed deployment pipeline and rollback plan
+- [ ] Support/Customer Success Lead briefed on upcoming changes
+- [ ] QA sign-off completed for feature acceptance
